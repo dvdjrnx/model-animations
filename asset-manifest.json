@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/model-animations/static/css/main.30c3c8a4.css",
+    "main.js": "/model-animations/static/js/main.dc639bcb.js",
+    "index.html": "/model-animations/index.html",
+    "main.30c3c8a4.css.map": "/model-animations/static/css/main.30c3c8a4.css.map",
+    "main.dc639bcb.js.map": "/model-animations/static/js/main.dc639bcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c3c8a4.css",
+    "static/js/main.dc639bcb.js"
+  ]
+}
