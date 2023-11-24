@@ -1,6 +1,6 @@
 # Model Animations
 
-![A low-poly model of a fox walks in place on a green floor](./public/model-animations.png)
+![A low-poly model of a fox walks in place on a green floor](./public/model-animations.jpg)
 
 This project explores loading an external model into a 3D scene and allowing users to dynamically apply its inherent animations. It was created with Three.js and React Three Fiber.
 
